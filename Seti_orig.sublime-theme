@@ -1241,10 +1241,11 @@
     },
     {
         "class": "quick_panel_path_label",
-        "fg": [255,255,255],
-        "selected_fg": [255,255,255],
+        "fg": [255,255,255,0.5],
+        "selected_fg": [255,255,255, 0.5],
         "match_fg": [255,255,255],
-        "selected_match_fg": [255,255,255]
+        "selected_match_fg": [255,255,255],
+        "link_color": [100,160,230]
     },
     {
         "class": "quick_panel_score_label",
